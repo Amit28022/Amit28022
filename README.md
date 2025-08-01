@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amit28022
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Express.js
 - 💞️ I’m looking to collaborate on software developer roles
 
 <!---
